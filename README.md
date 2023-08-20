@@ -37,9 +37,6 @@
   <a href="https://www.instagram.com/temoelizbarashvili_/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://www.twitch.tv/dokkyoshi" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  </a>
   <img src="https://img.shields.io/static/v1?message=dokkyoshi&logo=discord&label=Discord&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <a href="gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=temoelizbarashvili23@gmail.com&logo=gmail&label=Gmail&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -51,8 +48,12 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/TemoElizbarashvili/TemoElizbarashvili/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=TemoElizbarashvili.TemoElizbarashvili&left_color=antiquewhite&right_color=aqua&left_text=Views"  />
+</div>
 
 ###
