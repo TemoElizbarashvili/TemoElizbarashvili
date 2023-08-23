@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋! My name is Temo and I'm a full-stack dev from Georgia.</h3>
+<h3 align="center">Hi 👋! My name is Temo and I'm a .Net dev from Georgia.</h3>
 
 ###
 
@@ -38,7 +38,6 @@
   <a href="https://www.instagram.com/temoelizbarashvili_/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=dokkyoshi&logo=discord&label=Discord&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <a href="gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=temoelizbarashvili23@gmail.com&logo=gmail&label=Gmail&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
